@@ -10,4 +10,3 @@ Adicionalmente se puede acceder a través de estos enlaces a las diferentes prá
 
 ------------------------------
 Practica 1: https://github.com/marco-nh/PAMN/tree/main/Practica1
-------------------------------
