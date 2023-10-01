@@ -9,4 +9,5 @@ Cada carpeta tendrá una descripción y información resumida del contenido de c
 Adicionalmente se puede acceder a través de estos enlaces a las diferentes prácticas
 
 ------------------------------
-Practica 1: https://github.com/marco-nh/PAMN/tree/main/Practica1
+Práctica 1: https://github.com/marco-nh/PAMN/tree/main/Practica1
+Práctica 2: https://github.com/marco-nh/PAMN/tree/main/Practica2
