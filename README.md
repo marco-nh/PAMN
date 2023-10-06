@@ -12,3 +12,5 @@ Adicionalmente se puede acceder a través de estos enlaces a las diferentes prá
 Práctica 1: https://github.com/marco-nh/PAMN/tree/main/Practica1
 
 Práctica 2: https://github.com/marco-nh/PAMN/tree/main/Practica2
+
+Práctica 4: https://github.com/marco-nh/PAMN/tree/main/Practica4
