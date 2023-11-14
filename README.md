@@ -14,3 +14,5 @@ Práctica 1: https://github.com/marco-nh/PAMN/tree/main/Practica1
 Práctica 2: https://github.com/marco-nh/PAMN/tree/main/Practica2
 
 Práctica 4: https://github.com/marco-nh/PAMN/tree/main/Practica4
+
+Práctica 6: https://github.com/marco-nh/PAMN/tree/main/Practica6
